@@ -1,2 +1,0 @@
-# buildhost
-Repositorio de imagenes
